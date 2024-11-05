@@ -2,7 +2,6 @@
 
 # Lab 3
 
-* Explore `install.sh`
-* Run `start.sh`
-* Open `http://localhost:8080`
-* Run `stop.sh`
+* Start the server: `./server.js`
+* Go to `http://localhost:8080`
+* Dump db with: `./dump-db.sh`

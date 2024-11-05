@@ -1,6 +1,8 @@
-# TODO: record video
-
 # Lab 2
 
-* Test `print-filenames.sh`
-* Test `print-words.sh`
+[Recording](./recording.mkv)
+
+---
+
+* Test `print-filenames.sh files.txt`
+* Test `print-words.sh put any words here`

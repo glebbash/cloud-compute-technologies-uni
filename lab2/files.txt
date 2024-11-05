@@ -1,0 +1,5 @@
+/home/never.sh
+/home/dev/project1/gonna.png
+/home/downloads/give.mp4
+/home/desktop/you.mp3
+/home/up.yaml
